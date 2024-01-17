@@ -1,0 +1,41 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    padding-left: 0;
+    margin: 0;
+    background-color: aqua;
+}
+li{
+    display: inline-block;
+    background-color: aqua;
+}
+h1{
+    background-color: #3468C0;
+    margin: 0;
+}
+body{
+    margin: 0;
+}
+.head{
+    color: white;
+}
+.line{
+    border: 3px solid black
+}
+#welcome{
+    width: 500px;
+    height: 500px;
+    margin: 25px;
+}
+#square{
+    width:1150px;
+    height: 200px;
+    margin:25px;
+    border:1px solid black;
+}
+.in{
+    margin:0;
+    padding: 10px;
+}
